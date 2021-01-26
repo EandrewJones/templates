@@ -11,7 +11,7 @@ As I add new templates, I will provide a brief synopsis of each below.
 beamer-pres
 ------------
 
-A template for LaTeX beamer presentations based heavily on [Paul Goldsmith-Pinkham's github repo](https://github.com/paulgp/beamer-tips). If you want to learn more about creating and customizing your own beamer templates for presentations. I highly recommend you head to that repo and peruse it closely. Thanks to my good friend, Kee Hyun Park, for sharing this source with me.
+A template for LaTeX beamer presentations based heavily on [Paul Goldsmith-Pinkham's github repo](https://github.com/paulgp/beamer-tips). If you want to learn more about creating and customizing your own beamer templates for presentations, I highly recommend you head to that repo and peruse it closely. Thanks to my good friend, Kee Hyun Park, for sharing this source with me.
 
 Notes:
 - Figures should be kept in the *figures/* directory and the template is entitled *presentation.tex*
