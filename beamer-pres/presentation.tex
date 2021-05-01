@@ -21,9 +21,17 @@
 \usetikzlibrary{snakes}
 \usetikzlibrary{calc}
 \usetikzlibrary{arrows}
-\usetikzlibrary{decorations.markings}
-\usetikzlibrary{shapes.misc}
-\usetikzlibrary{matrix,shapes,arrows,fit,tikzmark}
+\usetikzlibrary{decorations}
+%\usetikzlibrary{decorations.markings}
+%\usetikzlibrary{shapes.misc}
+\usetikzlibrary{matrix,shapes,arrows,fit, arrows.meta, tikzmark}
+\tikzset{
+	-Latex,auto,node distance =1 cm and 1 cm,semithick,
+	state/.style ={ellipse, draw, minimum width = 0.7 cm},
+	point/.style = {circle, draw, inner sep=0.04cm,fill,node contents={}},
+	bidirected/.style={Latex-Latex,dashed},
+	el/.style = {inner sep=2pt, align=left, sloped}
+}
 \usepackage{amsmath}
 \usepackage{mathpazo}
 \usepackage{hyperref}
@@ -35,11 +43,14 @@
 \usepackage{dcolumn}
 \usepackage{bbm}
 \newcolumntype{d}[0]{D{.}{.}{5}}
+\usepackage{makecell}
 
-% If you keep your figures in a separate directory, set the path
-% to that directory here
-\graphicspath{{figures/}}
-%\usepackage[space]{grffile}
+% Tabular line breaks
+\renewcommand\theadalign{bc}
+\renewcommand\theadfont{\bfseries}
+\renewcommand\theadgape{\Gape[4pt]}
+\renewcommand\cellgape{\Gape[4pt]}
+
 
 \usepackage{changepage}
 \usepackage{appendixnumberbeamer}
@@ -62,8 +73,14 @@
    \addtocounter{framenumber}{\value{framenumbervorappendix}} 
 }
 
+% Math commands
+\newcommand{\vect}[1]{\boldsymbol{#1}}
 
+
+% If you keep your figures in a separate directory, set the path
+% to that directory here
 \usepackage{graphicx}
+\graphicspath{{figures/}}
 \usepackage[space]{grffile}
 \usepackage{booktabs}
 
@@ -150,6 +167,20 @@
     \end{columns}
   \end{frame}
 }
+
+% If you reference citations and want a bibliography add the .bib here, alter settings, and
+% uncomment the \printbibliography at the end
+%\usepackage[backend=biber, natbib, style=numeric-comp, citestyle=authoryear]{biblatex}
+%\usepackage{keyval,ifthen}
+%\usepackage{csquotes}
+%\addbibresource{causal_inference.bib}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                              %%%
+%%% Start of presentation slides %%%
+%%%                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \title[]{\textcolor{red}{Template for Better Beamer Presentations}}
 \author[EAJ]{}
@@ -570,6 +601,12 @@
 %    \item[] You label a frame with the \texttt{[label=name]} option, and then point a link to it
 %    \item[] You can make an object a link using the \texttt{\textbackslash hyperlink\{label\}\{object\}} command
 %  \end{wideitemize}
+%\end{frame}
+
+
+% Uncomment slide for bibliography
+%\begin{frame}
+%	\printbibliography
 %\end{frame}
 
 
