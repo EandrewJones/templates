@@ -1,5 +1,5 @@
-Templates 
-=========
+LaTeX Templates 
+===============
 
 This repo contains folders with a number of different templates useful for research projects, papers and presentations. 
 
