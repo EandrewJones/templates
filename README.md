@@ -17,3 +17,15 @@ Notes:
 - Figures should be kept in the *figures/* directory and the template is entitled *presentation.tex*
 - Further customization options are laid out in inline comments.
 - Already contains packages for custom colors, fonts, tikzpicture (yes, that means gorgeous DAGs!), and any math equations you can imagine.
+
+article
+--------
+
+A LaTeX class for journal articles. The class can be called by beginning the document with `\documentclass{ej_article}`. 
+
+Notes
+- The file `ej_article.cls` must be located in the same directory as the document for correct compilation.
+- Figures should be kept in the *figures/* directory and any `tex` files in the *tex/* directory. Tex files can then be included in the article via the `\input{}` command.
+- Further customization options are laid out in inline comments.
+- Already contains packages for tables, appendices, word counts, tikzpicture (yes, that means gorgeous DAGs!), any math equations you can imagine, and much more.
+- To compile correct, the tex command should include `--shell-escape`. If you use pdflatex engine, it should be: `pdflatex -synctex=1 -interaction=nonstopmode --shell-escape %.tex` 
