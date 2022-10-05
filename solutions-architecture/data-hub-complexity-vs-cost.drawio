@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T15:12:29.515Z" agent="5.0 (X11)" etag="OX3IUo9XmiXE6GehQSje" version="20.4.0" type="github"><diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">7VrLctowFP0almEsS/JjGULSbjrTmXSmaxUrRlODqBDB9Osr2zK2kUJMKwiJywb7SrqSztH1fdgjeLfIPwmymn/hCc1GvpfkIzgd+f5NDD31V0h2WhLGlSAVLKlEoBE8st9UC/W4dMMSuu50lJxnkq26whlfLulMdmRECL7tdnviWXfWFUmpIXickcyUfmeJnGspCOKm4TNl6VxPHflh1fCDzH6mgm+Wer4lX9KqZUFqNXqP6zlJ+LYlgvcjeCc4l9XVIr+jWQFrjVg17uGF1v2SBV3KPgNCH1ZDnkm20fvWK5O7GojtnEn6uCKz4n6ryB7ByRPLsjuecVF2gcC/vZ1gJU8FSZiavG4r996Ip0woqhhfqiZK1mqNk7UU/Cc96D+Xi0zdgWIm3mhTM/kQIaxWPzG3qnf/TIWkeUukt/6J8gWVYqe66FYfxeEYV6P0IQUoQGPsNT8Nx7Z1Amry5i3yQX3aiT516X62Bn51oRl4iQ00ZDYCkw2MUC16jQHsjb02b9AFH3jIfEQW64h78wE8JxYRDJgB6FkY8PszEDphIHydAZooz6lvX0Woss89srVvhQbW7b4vollMfRTLNkresXMqaEYke+56fxt0eo6vnKm1tJwJNB9fjbnUitZ8I2ZUj2175h7qADDUSSJSKg11Jat7EHoSHTkxtQcvCr13Z2q2UADCtwwFYids3Ec4QP5HYMP3umz0fQg6YaNWMkzbsARmMEJjFDe/qCcbOB7H7WEuojQInJDzTk3FRg7uHSO4sQ5/yNZhCZNLz9HTIgInDLhJ49+pCVgYAP1NAEROGOiRuv8Pk52HyRDiPuochsnQrAl8JYIoFVSU6zpkXZ3i0kCU5bFl+o0ru5veYJN7XQEFUX2vVRS8roqVl3vBkxGevmRvDowJwsAENPItxhRZTonvxJTMnD8H/WElGUuLB9NMgaAogZNi82xGslvdsGBJUmgxUD5CyOUIsMW+OA4u69DNnD83H2cflgFbIfLSDJjJeA6Hw4DFo1+cATcJ+DutPPqGW42tpV+IO1V3AJCNjm5lvq4o/hM9aMgZeUlPO/0+oAp3k/P4imgbcq5usyrgyKr2ff6NHjOT/7ZbUSU5IQBrgWm6jLZTwa5gNbxFDOJOsRAYEJ8tekVmKq4hPCGCugYI8dtBaObSGsITQqBrgDB+OwiPZ6m7v8Lx1CzVQSAIzUDQi/Als1FkZqO7a8tGXWSdHj4E+vVPYaCtUOR3S/yhk7DBTEh315aQnocEeyn5csCbeeju2vLQ8wBfvm98Q+Bt6WeQSY1HB//g14bXDTfrEqnbwll6q7z0bXW7ukqL/ykjKkBeqC6SSaVD61VrqlRXvc7GckUl9A5YB8edtguWjdJzZH1NEAELywg7YBUPOmu1fM4EwxM+8HNBwKDzTwsBftD/RRlwwoCZYuboyjzKGV+vWCg4b2VT3Tbfk1cvvJrv9eH9Hw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-05T15:36:56.379Z" agent="5.0 (X11)" etag="--GYIsCfT0Pm3HZPz-xt" version="20.4.0" type="github">
+  <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
+    <mxGraphModel dx="-916" dy="-111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="749" value="Data Hub Cost Versus Complexity" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;html=1;points=[]" parent="1" vertex="1">
+          <mxGeometry x="2437.5" y="854.5" width="810" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="k2BHmzrAgpWdPYKoDZJQ-762" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2440" y="920" width="840" height="517" as="geometry" />
+        </mxCell>
+        <mxCell id="k2BHmzrAgpWdPYKoDZJQ-753" value="" style="group" vertex="1" connectable="0" parent="k2BHmzrAgpWdPYKoDZJQ-762">
+          <mxGeometry width="840" height="517" as="geometry" />
+        </mxCell>
+        <mxCell id="727" value="" style="edgeStyle=none;html=1;fontColor=#000000;strokeWidth=3;strokeColor=#000000;" parent="k2BHmzrAgpWdPYKoDZJQ-753" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="41.86915887850467" y="509" as="sourcePoint" />
+            <mxPoint x="41.86915887850467" y="29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="735" value="Complexity" style="text;spacingTop=-5;html=1;fontSize=18;fontStyle=0;points=[];strokeColor=none;" parent="k2BHmzrAgpWdPYKoDZJQ-753" vertex="1">
+          <mxGeometry x="756.2616822429907" y="497" width="83.73831775700934" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="745" value="&lt;div align=&quot;center&quot;&gt;Cost&lt;/div&gt;" style="text;spacingTop=-5;html=1;fontSize=18;fontStyle=0;points=[];align=center;" parent="k2BHmzrAgpWdPYKoDZJQ-753" vertex="1">
+          <mxGeometry width="83.73831775700934" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k2BHmzrAgpWdPYKoDZJQ-752" value="" style="edgeStyle=none;html=1;fontColor=#000000;strokeWidth=3;strokeColor=#000000;" edge="1" parent="k2BHmzrAgpWdPYKoDZJQ-753">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="41.86915887850467" y="509" as="sourcePoint" />
+            <mxPoint x="745.7943925233644" y="508.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2BHmzrAgpWdPYKoDZJQ-754" value="" style="endArrow=none;html=1;fontSize=13;strokeWidth=3;strokeColor=#FF6666;curved=1;startArrow=none;startFill=0;" edge="1" parent="k2BHmzrAgpWdPYKoDZJQ-753">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="493.5" as="sourcePoint" />
+            <mxPoint x="710" y="493.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="465.5" />
+              <mxPoint x="390" y="-4.5" />
+              <mxPoint x="540" y="465.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2BHmzrAgpWdPYKoDZJQ-757" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;strokeColor=#FF8000;fontSize=13;curved=1;" edge="1" parent="k2BHmzrAgpWdPYKoDZJQ-753">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="532" y="45.5" as="sourcePoint" />
+            <mxPoint x="532" y="485.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2BHmzrAgpWdPYKoDZJQ-758" value="Orphaned" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="k2BHmzrAgpWdPYKoDZJQ-753">
+          <mxGeometry x="100" y="75.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k2BHmzrAgpWdPYKoDZJQ-761" value="Well-Institutionalized" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="k2BHmzrAgpWdPYKoDZJQ-753">
+          <mxGeometry x="570" y="75.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k2BHmzrAgpWdPYKoDZJQ-760" value="Under-Resourced" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="k2BHmzrAgpWdPYKoDZJQ-753">
+          <mxGeometry x="360" y="75.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k2BHmzrAgpWdPYKoDZJQ-756" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;strokeColor=#FF8000;fontSize=13;curved=1;" edge="1" parent="k2BHmzrAgpWdPYKoDZJQ-762">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="45.5" as="sourcePoint" />
+            <mxPoint x="250" y="485.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k2BHmzrAgpWdPYKoDZJQ-764" value="&lt;div style=&quot;font-size: 14px;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;At the low end of the complexity spectrum lie &lt;b&gt;orphaned&lt;/b&gt; data sets. They will not continue to grow, are more likely to be infrequently accessed, and hence can be stored with relatively low, fixed costs. &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;At the high end of the complexity spectrum lie &lt;b&gt;well-institutionalized&lt;/b&gt; data sets. They will not be hosted on the hub and so most of the costs around these will be around tracking usage analytics and scaling the web server for (potentially) high-traffic. Costs do not scale with the size of the datasets, only the amount of users.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot; align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;In the middle of the spectrum lie &lt;b&gt;under-resourced&lt;/b&gt; data sets. These will  require the most services from the Data Hub (hosting, curation help, data management consulting, etc.) and hence incur the greatest costs. Data size is expected to scale. The eventual aim is to help these teams transition to &quot;Well-Institutionalized&quot; status.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1470" width="800" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
